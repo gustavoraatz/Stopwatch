@@ -12,7 +12,7 @@ namespace Stopwatch
         static void Menu()
         {
             Console.Clear();
-            Console.WriteLine("---------------");
+
             Console.WriteLine("S = Segundos => 10s = 10 segundos");
             Console.WriteLine("M = Minutos => 1m = 1 minuto");
             Console.WriteLine("0 = Sair");
