@@ -63,5 +63,5 @@ namespace Stopwatch
             Thread.Sleep(3000);
             Menu();
         }
-    }
+    }.................
 }
