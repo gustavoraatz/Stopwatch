@@ -44,7 +44,6 @@ namespace Stopwatch
             Console.WriteLine("Go!");
             Thread.Sleep(1000);
 
-
             Start(time);
         }
 
