@@ -45,6 +45,8 @@ namespace Stopwatch
             Thread.Sleep(1000);
 
             Start(time);
+
+            Console.WriteLine("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
         }
 
         static void Start(int time)
